@@ -17,3 +17,12 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+#burger_image {
+  width: 434px;
+  height: 700px;
+}
+
+body {
+  background-color: goldenrod;
+}

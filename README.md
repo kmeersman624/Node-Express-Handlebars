@@ -4,13 +4,18 @@
   This is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/kmeersman624/Node-Express-Handlebars)
+  
+  ## Image and Video
+
+  ![image of app](./public/assets/img/eatda.PNG)
+
+  ![video of test](./public/assets/img/burger.gif)
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Test](#tests)
   * [Questions](#questions) 
 
   ## Installation
@@ -26,12 +31,6 @@
 
   ## Contributing
   Kate Meersman
-
-  ## Tests
-
-  ![image of test](./assets/images/readme1.PNG)
-
-  ![image of test](./assets/images/readme2.PNG)
 
   ## Questions
   * katie4682@yahoo.com

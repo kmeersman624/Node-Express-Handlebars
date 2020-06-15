@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $(".devour-form").on("submit", function (event) {
+  $(".devour").on("submit", function (event) {
     event.preventDefault();
     var id = $(this).children(".id").val();
     console.log(id);

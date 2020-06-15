@@ -30,7 +30,7 @@ router.post("/burgers/create", function (req, res) {
 router.put("/burgers/:id", function (req, res) {
   burger.update(req.params.id, function (result) {
     console.log(result);
-    res.status(200);
+    res.status(200).end();
   });
 });
 
